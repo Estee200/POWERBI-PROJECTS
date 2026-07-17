@@ -4,7 +4,7 @@
 
 This project presents a **5-year financial forecast dashboard** developed for **MedIn Technologies** to support an investor funding proposal. The objective was to transform a comprehensive financial forecast model into an executive-level dashboard that enables investors and stakeholders to quickly assess the company's projected financial performance, profitability, funding requirements, and long-term sustainability.
 
-The dashboard consolidates key financial statements—including the Income Statement, Balance Sheet, and Cash Flow Statement—into a single interactive report that tells the company's financial story at a glance.
+The dashboard consolidates key financial statements, including the Income Statement, Balance Sheet, and Cash Flow Statement into a single interactive report that tells the company's financial story at a glance.
 
 ---
 
