@@ -1,6 +1,6 @@
-# 📈 5-Year Financial Forecast for Investors
+#  5-Year Financial Forecast for Investors
 
-## 📌 Project Overview
+##  Project Overview
 
 This project presents a **5-year financial forecast dashboard** developed for **MedIn Technologies** to support an investor funding proposal. The objective was to transform a comprehensive financial forecast model into an executive-level dashboard that enables investors and stakeholders to quickly assess the company's projected financial performance, profitability, funding requirements, and long-term sustainability.
 
@@ -8,7 +8,7 @@ The dashboard consolidates key financial statements—including the Income State
 
 ---
 
-## 🎯 Business Objective
+##  Business Objective
 
 The goal of this project was to answer key investor questions such as:
 
@@ -22,7 +22,7 @@ The goal of this project was to answer key investor questions such as:
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 - Microsoft Excel
 - Power BI Desktop
@@ -34,7 +34,7 @@ The goal of this project was to answer key investor questions such as:
 
 ---
 
-## 📊 Dashboard Features
+##  Dashboard Features
 
 ### Executive KPI Cards
 
@@ -109,7 +109,7 @@ Displays projected:
 
 ---
 
-## 📂 Dataset
+##  Dataset
 
 The dataset was created by transforming a detailed **5-year financial forecast model** into a structured format suitable for Business Intelligence reporting.
 
@@ -132,7 +132,7 @@ The data was cleaned and structured to support Power BI reporting and DAX calcul
 
 ---
 
-## 📈 Key Insights
+##  Key Insights
 
 - Projected revenue grows from **₦91M** in Year 1 to **₦417M** by Year 5.
 - Subscription products contribute the largest share of projected revenue.
@@ -143,7 +143,7 @@ The data was cleaned and structured to support Power BI reporting and DAX calcul
 
 ---
 
-## 💡 Recommendations
+##  Recommendations
 
 Allocate the ₦150M funding toward initiatives with the highest expected return while maintaining healthy profit margins and positive cash flows. Review key financial metrics quarterly to ensure the business remains on track to achieve its five-year projections.
 
@@ -155,7 +155,7 @@ Allocate the ₦150M funding toward initiatives with the highest expected return
 
 ---
 
-## 🚀 Skills Demonstrated
+##  Skills Demonstrated
 
 - Financial Forecasting
 - Financial Statement Analysis
