@@ -1,8 +1,9 @@
 #  Budget vs Actual Financial Performance Dashboard
 
 ### Financial Planning & Analysis (FP&A) | Power BI | DAX | Power Query
+<p align="center">
+  <img src="[Images/executive-dashboard.png](https://github.com/Estee200/POWERBI-PROJECTS/blob/main/Budget%20Vs%20Actual%20Business%20Insight/Screenshot%202026-07-17%20000159.png?raw=true)" width="700">
 
-![image alt](https://raw.githubusercontent.com/Estee200/POWERBI-PROJECTS/9437ee002d8154fabf423b5ea531eb7ecc2c2739/Budget%20Vs%20Actual%20Business%20Insight/Screenshot%202026-07-17%20000159.png)
 
 ##  Overview
 
