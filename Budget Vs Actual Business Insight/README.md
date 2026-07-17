@@ -1,8 +1,8 @@
-# 📊 Budget vs Actual Financial Performance Dashboard
+#  Budget vs Actual Financial Performance Dashboard
 
 ### Financial Planning & Analysis (FP&A) | Power BI | DAX | Power Query
 
-## 📌 Overview
+##  Overview
 
 This project presents an interactive **Budget vs Actual Financial Performance Dashboard** developed in **Power BI** for a simulated multi-category footwear retail business. The dashboard enables management to monitor financial performance by comparing **Budget** and **Actual** Revenue, Expenses, and Profit across multiple business dimensions.
 
@@ -10,7 +10,7 @@ The solution consolidates financial reporting into a single interactive report, 
 
 ---
 
-## 🏢 Business Background
+##  Business Background
 
 A multi-category footwear retailer operating across **10 Nigerian states** required a centralized reporting solution to monitor financial performance against budget. The business sells **Sneakers, Shoes, and Palms** through wholesale and retail channels, with sales distributed across multiple customers, sales representatives, and regions.
 
@@ -18,7 +18,7 @@ Previously, budget and actual performance were reviewed manually through multipl
 
 ---
 
-## ❗ Business Challenge
+##  Business Challenge
 
 Financial information was fragmented across several reports, making it difficult to obtain a unified view of the business.
 
@@ -34,7 +34,7 @@ Without an integrated dashboard, identifying performance gaps and taking correct
 
 ---
 
-## 🎯 Project Objectives
+##  Project Objectives
 
 The dashboard was designed to:
 
@@ -47,13 +47,13 @@ The dashboard was designed to:
 
 ---
 
-## 💡 Solution Overview
+##  Solution Overview
 
 An interactive Power BI dashboard was developed using a synthetic dataset representing three years of business operations.
 
 The report consists of three analytical pages:
 
-### 📍 Executive Dashboard
+###  Executive Dashboard
 
 Provides a high-level summary of financial performance, including:
 
@@ -66,7 +66,7 @@ Provides a high-level summary of financial performance, including:
 
 ---
 
-### 📍 Revenue Analysis
+###  Revenue Analysis
 
 Provides detailed analysis of revenue across:
 
@@ -80,7 +80,7 @@ Provides detailed analysis of revenue across:
 
 ---
 
-### 📍 Expense Analysis
+###  Expense Analysis
 
 Provides detailed analysis of operating expenses across:
 
@@ -91,7 +91,7 @@ Provides detailed analysis of operating expenses across:
 
 ---
 
-## 📈 Dashboard Features
+##  Dashboard Features
 
 The dashboard includes:
 
@@ -128,7 +128,7 @@ The report tracks the following financial metrics:
 
 ---
 
-## ❓ Business Questions Addressed
+##  Business Questions Addressed
 
 This dashboard helps answer the following questions:
 
@@ -143,7 +143,7 @@ This dashboard helps answer the following questions:
 
 ---
 
-## 🔍 Key Findings
+##  Key Findings
 
 - Revenue remained close to budget throughout the reporting period.
 - Wholesale customers generated the largest share of total revenue.
@@ -154,7 +154,7 @@ This dashboard helps answer the following questions:
 
 ---
 
-## ✅ Recommendations
+##  Recommendations
 
 - Focus sales initiatives on states with recurring unfavorable revenue variances.
 - Continue strengthening relationships with high-value wholesale customers.
@@ -164,7 +164,7 @@ This dashboard helps answer the following questions:
 
 ---
 
-## 🛠 Tools & Technologies
+##  Tools & Technologies
 
 - Power BI
 - Power Query
@@ -173,7 +173,7 @@ This dashboard helps answer the following questions:
 
 ---
 
-## 📚 Skills Demonstrated
+##  Skills Demonstrated
 
 ### Financial Analysis
 
@@ -199,7 +199,7 @@ This dashboard helps answer the following questions:
 
 ---
 
-## 📁 Dataset
+##  Dataset
 
 The project uses a **synthetic dataset** generated to simulate the financial operations of a footwear retail business.
 
@@ -218,7 +218,7 @@ The dataset contains:
 
 ---
 
-## ⚠️ Limitations
+##  Limitations
 
 - Uses a synthetic dataset for demonstration purposes.
 - Focuses on Budget vs Actual analysis rather than financial forecasting.
@@ -227,7 +227,7 @@ The dataset contains:
 
 ---
 
-## 🚀 Future Enhancements
+##  Future Enhancements
 
 Potential improvements include:
 
@@ -238,25 +238,7 @@ Potential improvements include:
 - Scenario & What-if Analysis
 - Rolling Forecasts
 
----
-
-## 📷 Dashboard Preview
-
-### Executive Dashboard
-
-> *(Insert screenshot here)*
-
-### Revenue Analysis
-
-> *(Insert screenshot here)*
-
-### Expense Analysis
-
-> *(Insert screenshot here)*
-
----
-
-## 📝 Project Summary
+##  Project Summary
 
 This project demonstrates how **Power BI** can be used to build an interactive **Financial Planning & Analysis (FP&A)** solution that transforms fragmented financial data into meaningful business insights. By combining Budget vs Actual reporting, variance analysis, and executive-level visualizations, the dashboard supports faster, data-driven financial decision-making and performance monitoring.
 
