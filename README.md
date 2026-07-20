@@ -1,8 +1,10 @@
-# 📊 Power BI Projects
+#  POWER BI PROJECTS
 
-Welcome to my **Power BI Projects** repository!  
-This space showcases interactive dashboards and reports built with **Microsoft Power BI**, focusing on transforming raw data into meaningful and interesting insights and clear visual stories.
+Welcome to my **Power BI Projects** repository!
 
+This repository showcases end-to-end Business Intelligence projects built with **Microsoft Power BI**, where I transform raw data into interactive dashboards that support better business decisions. Each project demonstrates my ability to clean and model data, write DAX measures, design intuitive reports, and communicate insights through compelling data storytelling.
+
+The projects span multiple industries—including finance, legal services, business operations, and survey analytics—reflecting practical solutions to real-world business challenges.
 ---
 
 ## 🧠 About
