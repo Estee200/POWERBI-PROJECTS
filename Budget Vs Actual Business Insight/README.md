@@ -2,7 +2,7 @@
 
 ### Financial Planning & Analysis (FP&A) | Power BI | DAX | Power Query
 <p align="center">
-  <img src="https://github.com/Estee200/POWERBI-PROJECTS/blob/main/Budget%20Vs%20Actual%20Business%20Insight/Screenshot%202026-07-17%20000159.png?raw=true" width="500">
+  <img src="https://github.com/Estee200/POWERBI-PROJECTS/blob/main/Budget%20Vs%20Actual%20Business%20Insight/Executive%20Insight.png?raw=true" width="500">
 </p>
 
 
@@ -112,7 +112,7 @@ The dashboard includes:
 
 ---
 
-## 📊 Key Performance Indicators (KPIs)
+## Key Performance Indicators (KPIs)
 
 The report tracks the following financial metrics:
 
@@ -193,14 +193,6 @@ This dashboard helps answer the following questions:
 - Interactive Dashboard Design
 - Executive Reporting
 
-### Business Intelligence
-
-- Data Visualization
-- KPI Development
-- Dashboard Navigation
-- Data Storytelling
-- Decision Support Reporting
-
 ---
 
 ##  Dataset
@@ -241,9 +233,5 @@ Potential improvements include:
 - Financial Statement Dashboard
 - Scenario & What-if Analysis
 - Rolling Forecasts
-
-##  Project Summary
-
-This project demonstrates how **Power BI** can be used to build an interactive **Financial Planning & Analysis (FP&A)** solution that transforms fragmented financial data into meaningful business insights. By combining Budget vs Actual reporting, variance analysis, and executive-level visualizations, the dashboard supports faster, data-driven financial decision-making and performance monitoring.
 
 > **Note:** This project uses a synthetic dataset created solely for educational and portfolio purposes.
