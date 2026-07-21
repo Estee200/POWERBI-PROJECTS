@@ -9,8 +9,6 @@
 
 Working in a law firm gave me insight into the financial side of legal operations, from billing and collections to revenue reporting. Inspired by these processes, I built this project to demonstrate how Business Intelligence can help law firms monitor financial performance, improve collections, and support better decision-making.
 
-Using a realistic synthetic dataset generated with Python, I cleaned and transformed the data using SQL before developing an interactive Power BI dashboard to deliver actionable financial insights.
-
 ---
 
 ##  Business Problem
