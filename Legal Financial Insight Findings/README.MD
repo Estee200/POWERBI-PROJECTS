@@ -26,7 +26,57 @@ Law firms generate large volumes of billing data, but without effective reportin
 This project demonstrates how Business Intelligence can transform legal billing data into meaningful insights that support financial decision-making.
 
 ---
+#  Dashboard Pages
 
+## Page 1 — Executive Financial Overview
+Provides a high-level summary of the firm's financial performance.
+
+<p align="center">
+  <img src="https://github.com/Estee200/POWERBI-PROJECTS/blob/main/Legal%20Financial%20Insight%20Findings/Images/Legal%20Executive%20Insight%20Dasboard.png?raw=true" alt="Legal Executive Insight" width="800">
+</p>
+
+
+### Key Questions Answered
+
+- How has revenue performed over time?
+- Which regions generate the most revenue?
+- Which practice areas generate the most revenue?
+- Are collections improving over time?
+
+---
+
+## Page 2 — Billing & Collections
+
+Focuses on cash flow and collection performance.
+<p align="center">
+  <img src="https://github.com/Estee200/POWERBI-PROJECTS/blob/main/Legal%20Financial%20Insight%20Findings/Images/Billings%20&%20Collection.png?raw=true" alt="Legal Billing Insight" width="800">
+</p>
+
+### Key Questions Answered
+
+- Which billing types have the highest outstanding balances?
+- Which invoices remain unpaid the longest?
+- Which practice areas have collection challenges?
+- Where is revenue leakage occurring?
+
+---
+
+## Page 3 — Attorney & Client Performance
+
+Measures productivity and revenue contribution.
+
+<p align="center">
+  <img src="https://github.com/Estee200/POWERBI-PROJECTS/blob/main/Legal%20Financial%20Insight%20Findings/Images/Attorney%20&%20Performance.png?raw=true" alt="Legal Billing Insight" width="800">
+</p>
+
+### Key Questions Answered
+
+- Which attorneys generate the most revenue?
+- Which attorney level contributes the highest revenue?
+- Which clients generate the highest revenue?
+- Which industries contribute the most revenue?
+
+---
 ##  Dataset
 
 To simulate a real-world legal finance environment, I generated a synthetic dataset containing over **5,000 legal billing records** using Python with inconsistent, duplicate, invalid date, negative and missing values.
@@ -44,98 +94,9 @@ The dataset includes:
 - Payment Timelines
 
 The data was then cleaned and transformed using SQL before being imported into Power BI.
-
 ---
 
-##  Project Workflow
-
-### 1. Python
-- Generated a realistic legal financial dataset
-- Simulated billing, collections, and payment behaviour
-- Introduced common data quality issues
-
-### 2. SQL
-- Cleaned messy data
-- Standardized inconsistent values
-- Removed duplicates
-- Handled missing data
-- Built business metrics
-- Answered key business questions
-
-### 3. Power BI
-- Built an interactive executive dashboard
-- Created KPIs and financial visualizations
-- Designed an executive-focused reporting experience
-
----
-
-#  Dashboard Pages
-
-## Page 1 — Executive Financial Overview
-
-Provides a high-level summary of the firm's financial performance.
-
-### KPIs
-
-- Net Revenue
-- Amount Collected
-- Collection Rate
-- Outstanding Balance
-- Revenue Gap
-- Average Settlement Days
-
-### Key Questions Answered
-
-- How has revenue performed over time?
-- Which regions generate the most revenue?
-- Which practice areas generate the most revenue?
-- Are collections improving over time?
-
----
-
-## Page 2 — Billing & Collections
-
-Focuses on cash flow and collection performance.
-
-### KPIs
-
-- Total Outstanding Balance
-- Collection Rate
-- Write-Offs
-- Outstanding Bills
-- Average Settlement Days
-
-### Key Questions Answered
-
-- Which billing types have the highest outstanding balances?
-- Which invoices remain unpaid the longest?
-- Which practice areas have collection challenges?
-- Where is revenue leakage occurring?
-
----
-
-## Page 3 — Attorney & Client Performance
-
-Measures productivity and revenue contribution.
-
-### KPIs
-
-- Revenue per Attorney
-- Revenue per Hour
-- Total Billable Hours
-- Top Client Revenue
-- Realization Rate
-
-### Key Questions Answered
-
-- Which attorneys generate the most revenue?
-- Which attorney level contributes the highest revenue?
-- Which clients generate the highest revenue?
-- Which industries contribute the most revenue?
-
----
-
-#  Key Insights
+#  General Key Insights
 
 - Collection performance remains below 100%, highlighting opportunities to improve cash flow.
 - Revenue is well distributed across regions, with Abuja Office contributing the highest share.
