@@ -1,18 +1,18 @@
-#  5-Year Financial Forecast for Investors
+# Revenue Assurance & Reconciliation Analysis
 
-#### Financial Forecasting | Financial Modelling | Power BI | DAX
+#### Revenue Leakage Analysis | Payment Reconciliation | Power BI | DAX
 
 ## Project Overview
 
-This project presents an interactive **5-Year Financial Forecast Dashboard** developed for **MedIn Technologies** to support an investor funding proposal. The dashboard transforms detailed financial forecast models into an executive reporting solution that enables investors and stakeholders to evaluate projected revenue growth, profitability, financial position, and funding requirements over a five-year period.
+This project presents an interactive **Revenue Assurance & Reconciliation Dashboard** built to help a business monitor revenue leakage, payment settlement performance, and sales representative accountability across regions, channels, and payment methods. The dashboard consolidates transaction-level data into an executive reporting solution that enables stakeholders to identify where expected revenue is being lost and take corrective action.
 
 ---
 
 # Business Problem
 
-Investors require more than financial statements—they need a clear understanding of the company's growth potential, profitability, financial strength, and funding requirements before making investment decisions.
+Businesses processing high transaction volumes often struggle to detect where revenue is being lost between what's expected and what's actually collected. Without a consolidated view, leakage from failed payments, partial settlements, and delayed reconciliations can go unnoticed until it materially affects profitability.
 
-This dashboard consolidates projected financial information into a single interactive report, enabling stakeholders to assess long-term business performance, identify key growth drivers, and evaluate whether the proposed **₦150 Million** funding request is financially justified.
+This dashboard addresses that gap by tracking expected vs. actual revenue, breaking down leakage by region, sales rep, and payment channel, and surfacing which transactions are fully reconciled versus at risk — enabling faster, more targeted intervention.
 
 ---
 
@@ -71,37 +71,36 @@ Provides detailed analysis of revenue leakage sources and payment reconciliation
 
 # Recommendations
 
-- Prioritize investment in high-growth products to maximize long-term returns.
-- Monitor actual performance against financial projections and adjust strategies where necessary.
-- Maintain disciplined cost management to protect projected profit margins.
-- Regularly communicate financial performance to investors to reinforce confidence and funding transparency.
+- Investigate the ₦4M revenue leakage gap as a priority, starting with the highest-leakage regions (Lagos, Kaduna, Owerri) and payment channels (Card, Mobile Banking).
+- Review reconciliation processes given that only 46.28% of transactions are fully settled — target reducing failed and partial payments through improved payment retry logic or customer follow-up.
+- Investigate orders with 100% leakage individually, as these likely represent failed transactions requiring direct recovery action rather than systemic fixes.
+- Since leakage is consistent across reps (~0.5%), address it at the process/payment-infrastructure level rather than through individual rep performance management.
+- Monitor the recurring June revenue dip to determine whether it's seasonal and plan resourcing/collections activity accordingly.
 
 ---
 
 # Tools & Technologies
 
 - Microsoft Power BI
-- Microsoft Excel
 - Power Query
 - DAX
-- Financial Modelling
+- Data Modelling
 
 ---
 
 # Dataset
 
-The dashboard was developed using a structured **5-Year Financial Forecast Model** containing projected Income Statement, Balance Sheet, and Cash Flow data prepared for investor reporting.
+The dashboard was developed using a **transaction-level payment dataset** capturing order, revenue, and settlement details across regions, sales reps, and payment channels.
 
 The dataset includes:
 
-- Revenue Projections
-- Cost of Sales
-- Operating Expenses
-- Net Profit
-- Assets
-- Liabilities
-- Equity
-- Product Revenue
-- Cash Flow Projections
+- Order ID and Transaction Date
+- Expected Amount and Amount Received
+- Payment Status (Failed, Partial, Successful)
+- Payment Channel (Card, Mobile Banking, POS, Bank Transfer, USSD)
+- Sales Representative
+- Region/State
+- Settlement Date
+- Sales Channel (Online/Retail)
 
-> **Note:** This project uses a simulated financial forecast model created for educational and portfolio purposes.
+> **Note:** This project uses a synthetic dataset created solely for educational and portfolio purposes.
