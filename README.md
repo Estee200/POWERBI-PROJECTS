@@ -1,23 +1,17 @@
-# 📊 Power BI Projects
+#  Power BI Projects
+![Python](https://img.shields.io/badge/Python-Data%20Generation-blue?logo=python)
+![MySQL](https://img.shields.io/badge/MySQL-Data%20Cleaning-orange?logo=mysql)
+![Power%20BI](https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?logo=powerbi)
+![DAX](https://img.shields.io/badge/DAX-Calculations-orange)
+![Data%20Visualization](https://img.shields.io/badge/Data%20Visualization-Insights-4A90E2)
+![Survey%20Analysis](https://img.shields.io/badge/Survey%20Analysis-Analytics-6A1B9A)
+<img width="468" height="175" alt="image" src="https://github.com/user-attachments/assets/c4279e38-e76e-438d-a0e0-8c526c2e1fe2" />
 
 Welcome to my **Power BI Projects** repository!
 
 This repository showcases a collection of Business Intelligence solutions built with **Microsoft Power BI**, demonstrating my ability to transform raw data into interactive dashboards that support informed business decisions.
 
 The projects cover Financial Planning & Analysis (FP&A), Financial Reporting, Legal Operations, Revenue Analytics, and Survey Analytics, combining data modelling, DAX, Power Query, and data storytelling to solve real-world business problems.
-
----
-
-## 🛠 Skills Demonstrated
-
-- Data Cleaning & Transformation (Power Query)
-- Data Modelling
-- DAX Measures & Calculated Columns
-- Interactive Dashboard Design
-- Financial Analysis & KPI Reporting
-- Variance Analysis
-- Executive Reporting
-- Data Storytelling
 
 ---
 
@@ -31,7 +25,10 @@ An FP&A dashboard designed to compare Budget versus Actual Revenue, Expenses, an
 
 *(Insert image here)*
 
-🔗 **[View Project](Budget-vs-Actual/README.md)**
+<p align="center">
+  <a href="https://github.com/Estee200/POWERBI-PROJECTS/tree/main/Budget%20Vs%20Actual%20Business%20Insight">Read Full Case Study →</a>
+</p>
+
 
 ---
 
@@ -43,7 +40,10 @@ An executive financial dashboard built from a five-year financial forecast model
 
 *(Insert image here)*
 
-🔗 **[View Project](5-Year-Forecast/README.md)**
+<p align="center">
+  <a href="https://github.com/Estee200/POWERBI-PROJECTS/tree/main/5-Year%20Financial%20Forecast%20Model">Read Full Case Study →</a>
+</p>
+
 
 ---
 
@@ -55,7 +55,10 @@ A financial reporting dashboard developed for a law firm to monitor revenue, bil
 
 *(Insert image here)*
 
-🔗 **[View Project](Legal-Financial-Performance/README.md)**
+<p align="center">
+  <a href="https://github.com/Estee200/POWERBI-PROJECTS/tree/main/Legal%20Financial%20Insight%20Findings">Read Full Case Study →</a>
+</p>
+
 
 ---
 
@@ -67,7 +70,10 @@ A Power BI dashboard designed to identify revenue leakage across the sales proce
 
 *(Insert image here)*
 
-🔗 **[View Project](Revenue-Leakage/README.md)**
+<p align="center">
+  <a href="https://github.com/Estee200/POWERBI-PROJECTS/tree/main/Revenue%20Assurance%20%20%26%20Reconciliation%20Analysis">Read Full Case Study →</a>
+</p>
+
 
 ---
 
@@ -79,19 +85,22 @@ An interactive survey dashboard analyzing responses from data professionals to e
 
 *(Insert image here)*
 
-🔗 **[View Project](Data-Survey/README.md)**
+<p align="center">
+  <a href="https://github.com/Estee200/POWERBI-PROJECTS/tree/main/Data%20Survey%20Analysis">Read Full Case Study →</a>
+</p>
+
 
 ---
+##  Skills Demonstrated
 
-##  More Projects Coming Soon
-
-Additional dashboards currently in development include:
-
-- Sales Performance Dashboard
-- Financial Statement Analysis
-- Cash Flow Dashboard
-- Executive KPI Dashboard
-- HR Analytics Dashboard
+- Data Cleaning & Transformation (Power Query)
+- Data Modelling
+- DAX Measures & Calculated Columns
+- Interactive Dashboard Design
+- Financial Analysis & KPI Reporting
+- Variance Analysis
+- Executive Reporting
+- Data Storytelling
 
 ---
 
