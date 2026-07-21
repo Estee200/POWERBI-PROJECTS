@@ -11,8 +11,6 @@ This project presents an interactive **5-Year Financial Forecast Dashboard** dev
 
 ---
 
-## Business Problem
-
 ## Business Challenge
 
 Early-stage startups seeking investment need to demonstrate a credible, data-backed growth story — not just ambition. MedIn Technologies needed to answer key investor questions in one place:
@@ -21,7 +19,6 @@ Early-stage startups seeking investment need to demonstrate a credible, data-bac
 - How fast will revenue and profit grow over the next 5 years?
 - When does the business become profitable (break-even)?
 - Which products will drive the most revenue?
-- Where does revenue go before it becomes net profit?
 - How strong is the company's financial position (assets, equity, liabilities)?
 
 Without a consolidated forecast, communicating this story to investors would rely on scattered spreadsheets rather than a clear, navigable narrative.
