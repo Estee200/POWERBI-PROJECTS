@@ -13,7 +13,7 @@ Using a realistic synthetic dataset generated with Python, I cleaned and transfo
 
 ---
 
-## 🎯 Business Problem
+##  Business Problem
 
 Law firms generate large volumes of billing data, but without effective reporting, it can be difficult to answer important business questions such as:
 
