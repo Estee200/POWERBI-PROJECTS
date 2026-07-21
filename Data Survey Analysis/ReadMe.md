@@ -10,8 +10,6 @@
 
 This project presents an interactive **Data Professionals Survey Dashboard** built in **Power BI** to analyze responses from data professionals across different job roles and countries. The dashboard provides insights into salary trends, work-life balance, programming language preferences, and career satisfaction to better understand the current data industry landscape.
 
----
-
 ## Business Problem
 
 Organizations and aspiring data professionals often need reliable insights into industry trends to make informed career and workforce decisions. This dashboard transforms raw survey responses into meaningful visual insights, enabling users to explore compensation, job satisfaction, work-life balance, and technology preferences across the data profession.
@@ -32,8 +30,6 @@ Organizations and aspiring data professionals often need reliable insights into 
 - Survey responses were distributed across multiple countries, providing a broader view of global trends within the data profession.
 - Organizations should benchmark compensation and employee satisfaction regularly, while aspiring professionals should prioritize in-demand technical skills to remain competitive.
 
----
-
 ## Tools & Technologies
 
 - Microsoft Power BI
@@ -41,7 +37,6 @@ Organizations and aspiring data professionals often need reliable insights into 
 - DAX
 - Microsoft Excel
 
----
 
 ## Dataset
 
