@@ -5,7 +5,6 @@
 ![DAX](https://img.shields.io/badge/DAX-Calculations-orange)
 ![Data%20Visualization](https://img.shields.io/badge/Data%20Visualization-Insights-4A90E2)
 ![Survey%20Analysis](https://img.shields.io/badge/Survey%20Analysis-Analytics-6A1B9A)
-<img width="468" height="175" alt="image" src="https://github.com/user-attachments/assets/c4279e38-e76e-438d-a0e0-8c526c2e1fe2" />
 
 Welcome to my **Power BI Projects** repository!
 
