@@ -66,7 +66,7 @@ Focuses on cash flow and collection performance.
 Measures productivity and revenue contribution.
 
 <p align="center">
-  <img src="https://github.com/Estee200/POWERBI-PROJECTS/blob/main/Legal%20Financial%20Insight%20Findings/Images/Attorney%20&%20Performance.png?raw=true" alt="Legal Attorney Insight" width="800">
+  <img src="https://github.com/Estee200/POWERBI-PROJECTS/blob/main/Legal%20Financial%20Insight%20Findings/Images/Attorney%20performance.png?raw=true" alt="Legal Attorney Insight" width="800">
 </p>
 
 ### Key Questions Answered
