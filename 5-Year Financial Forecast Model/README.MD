@@ -13,7 +13,7 @@ This project presents an interactive **5-Year Financial Forecast Dashboard** dev
 
 ## Business Challenge
 
-Early-stage startups seeking investment need to demonstrate a credible, data-backed growth story — not just ambition. MedIn Technologies needed to answer key investor questions in one place:
+Early-stage startups seeking investment need to demonstrate a credible, data-backed growth story not just ambition. MedIn Technologies needed to answer key investor questions in one place:
 
 - How much funding is required, and what will it be used for?
 - How fast will revenue and profit grow over the next 5 years?
