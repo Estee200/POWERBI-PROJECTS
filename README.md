@@ -6,7 +6,7 @@
 ![Data%20Visualization](https://img.shields.io/badge/Data%20Visualization-Insights-4A90E2)
 ![Survey%20Analysis](https://img.shields.io/badge/Survey%20Analysis-Analytics-6A1B9A)
 
-Welcome to my **Power BI Projects** repository!
+####  Welcome to my **Power BI Projects** repository!
 
 This repository showcases a collection of Business Intelligence solutions built with **Microsoft Power BI**, demonstrating my ability to transform raw data into interactive dashboards that support informed business decisions.
 
@@ -14,7 +14,7 @@ The projects cover Financial Planning & Analysis (FP&A), Financial Reporting, Le
 
 ---
 
-# 📁 Projects
+#  Projects
 
 ## 1️⃣ Budget vs Actual Financial Performance Dashboard
 
