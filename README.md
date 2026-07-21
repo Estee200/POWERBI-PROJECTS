@@ -115,7 +115,7 @@ An interactive survey dashboard analyzing responses from data professionals to e
 
 ---
 
-##  About Me
+####  About Me
 
 I'm **Esther I. Nweze (AAT, ACA)**, a Financial BI Analyst passionate about transforming business data into actionable insights through Power BI, Excel, SQL, and financial analysis.
 ---
