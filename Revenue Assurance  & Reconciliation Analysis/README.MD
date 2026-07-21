@@ -1,175 +1,107 @@
 #  5-Year Financial Forecast for Investors
 
-##  Project Overview
+#### Financial Forecasting | Financial Modelling | Power BI | DAX
 
-This project presents a **5-year financial forecast dashboard** developed for **MedIn Technologies** to support an investor funding proposal. The objective was to transform a comprehensive financial forecast model into an executive-level dashboard that enables investors and stakeholders to quickly assess the company's projected financial performance, profitability, funding requirements, and long-term sustainability.
+## Project Overview
 
-The dashboard consolidates key financial statements, including the Income Statement, Balance Sheet, and Cash Flow Statement into a single interactive report that tells the company's financial story at a glance.
-
----
-
-##  Business Objective
-
-The goal of this project was to answer key investor questions such as:
-
-- How much revenue is the business expected to generate?
-- How profitable will the company become?
-- When is the business expected to break even?
-- Which products contribute the most revenue?
-- How strong is the projected financial position?
-- How does revenue flow into net profit?
-- Is the ₦150 Million funding request justified?
+This project presents an interactive **5-Year Financial Forecast Dashboard** developed for **MedIn Technologies** to support an investor funding proposal. The dashboard transforms detailed financial forecast models into an executive reporting solution that enables investors and stakeholders to evaluate projected revenue growth, profitability, financial position, and funding requirements over a five-year period.
 
 ---
 
-##  Tech Stack
+# Business Problem
 
+Investors require more than financial statements—they need a clear understanding of the company's growth potential, profitability, financial strength, and funding requirements before making investment decisions.
+
+This dashboard consolidates projected financial information into a single interactive report, enabling stakeholders to assess long-term business performance, identify key growth drivers, and evaluate whether the proposed **₦150 Million** funding request is financially justified.
+
+---
+
+# Dashboard Pages
+
+##  Executive Financial Overview
+
+Provides a high-level summary of revenue performance, leakage, and settlement efficiency
+
+<p align="center">
+  <img src="https://github.com/Estee200/POWERBI-PROJECTS/blob/main/Revenue%20Assurance%20%20&%20Reconciliation%20Analysis/Images/Executive%20Overview.png?raw=true" alt="Revenue Leakage Executive Dashboard" width="800">
+</p>
+
+
+### Business Insights
+
+- Out of ₦13M in expected revenue, only ₦9M was actually received — a revenue leakage of ₦4M, signaling a material gap between billed and collected amounts that warrants urgent investigation.
+- Monthly revenue shows a consistent dip around June across both expected and actual figures, suggesting a seasonal or operational pattern worth planning around.
+- Lagos generates the highest revenue among all regions, reinforcing it as the business's core market and a priority for retention and support.
+- Card Payment and Mobile Banking show the highest volumes of settlement delays compared to POS, Bank Transfer, and USSD — pointing to these channels as key areas for process improvement.
+- Online transactions drive more revenue than Retail, highlighting the growing importance of digital channels to the business.
+
+---
+
+##  Representatives Performance
+Provides a breakdown of sales rep performance, revenue generation, and leakage exposure
+
+<p align="center">
+  <img src="https://github.com/Estee200/POWERBI-PROJECTS/blob/main/Revenue%20Assurance%20%20&%20Reconciliation%20Analysis/Images/Representatives%20Performance.png?raw=true" alt="Representative Performance Dashboard" width="800">
+</p>
+
+### Business Insights
+
+- Tunde Adebayo is the top-performing rep by revenue (₦1.84M), but also carries the highest revenue leakage (₦931K) — indicating that higher sales volume is coming with proportionally higher collection risk.
+- All five sales reps show a leakage rate close to 0.5% of expected revenue, suggesting the issue is systemic across the team rather than tied to individual rep performance.
+- Order volume is fairly evenly distributed across reps (ranging from 949 to 1,056 orders), showing a balanced workload rather than one rep being overloaded.
+- With ₦4.39M in total leakage against ₦13.1M expected across all reps, closing even a fraction of this gap could meaningfully improve overall revenue realization.
+
+---
+
+##  Revenue Assurance & Reconciliation
+Provides detailed analysis of revenue leakage sources and payment reconciliation status
+
+<p align="center">
+  <img src="https://github.com/Estee200/POWERBI-PROJECTS/blob/main/Revenue%20Assurance%20%20&%20Reconciliation%20Analysis/Images/Revenue%20Assurance.png?raw=true" alt="Revenue Assurance Dashboard" width="800">
+</p>
+
+### Business Insights
+
+- Only 46.28% of transactions are fully reconciled, meaning more than half of all transactions have some form of payment gap — a significant operational red flag.
+- Failed payments (32.64%) and partial payments (20.18%) together account for over half of all transaction outcomes, suggesting the payment collection process itself may need re-evaluation.
+- Lagos leads in revenue leakage (₦530K), followed by Kaduna and Owerri — showing leakage is concentrated in a handful of regions rather than spread evenly.
+- Several high-value orders show 100% leakage (₦0 received against amounts near ₦5,000), indicating these may be failed or abandoned transactions that need direct follow-up rather than partial recovery efforts.
+
+---
+
+# Recommendations
+
+- Prioritize investment in high-growth products to maximize long-term returns.
+- Monitor actual performance against financial projections and adjust strategies where necessary.
+- Maintain disciplined cost management to protect projected profit margins.
+- Regularly communicate financial performance to investors to reinforce confidence and funding transparency.
+
+---
+
+# Tools & Technologies
+
+- Microsoft Power BI
 - Microsoft Excel
-- Power BI Desktop
-- DAX (Data Analysis Expressions)
 - Power Query
+- DAX
 - Financial Modelling
-- Business Intelligence
-- Data Visualization
 
 ---
 
-##  Dashboard Features
+# Dataset
 
-### Executive KPI Cards
+The dashboard was developed using a structured **5-Year Financial Forecast Model** containing projected Income Statement, Balance Sheet, and Cash Flow data prepared for investor reporting.
 
-- Funding Required
-- Projected Revenue (Year 5)
-- Gross Profit Margin
-- Net Profit Margin
-- Break-even Year
+The dataset includes:
 
-Each KPI also displays comparison metrics to provide additional business context.
-
----
-
-### Executive Insights
-
-A summary of the most important findings from the financial forecast, allowing decision-makers to understand the business outlook without reviewing the detailed financial statements.
-
----
-
-### Revenue & Profit Trend
-
-Answers:
-
-> **How fast are revenue and profits growing over the next five years?**
-
-Shows projected growth in:
-
-- Revenue
+- Revenue Projections
+- Cost of Sales
+- Operating Expenses
 - Net Profit
+- Assets
+- Liabilities
+- Equity
+- Product Revenue
+- Cash Flow Projections
 
----
-
-### Product Revenue Analysis
-
-Answers:
-
-> **Which products will generate the most revenue?**
-
-Compares projected revenue generated by each product line.
-
----
-
-### Profit Bridge (Waterfall Chart)
-
-Answers:
-
-> **Where does the revenue go before we arrive at net profit?**
-
-Illustrates how revenue is reduced by:
-
-- Cost of Goods Sold
-- Overhead Expenses
-- Variable Expenses
-
-to arrive at Net Profit.
-
----
-
-### Financial Position
-
-Answers:
-
-> **How strong is the company's financial position?**
-
-Displays projected:
-
-- Total Assets
-- Total Owner's Equity
-- Share Capital
-- Retained Earnings
-- Total Liabilities
-
----
-
-##  Dataset
-
-The dataset was created by transforming a detailed **5-year financial forecast model** into a structured format suitable for Business Intelligence reporting.
-
-The model includes projections from:
-
-- Income Statement
-- Balance Sheet
-- Cash Flow Statement
-
-Each record contains:
-
-- Statement
-- Section
-- Line Item
-- Product
-- Year
-- Financial Value
-
-The data was cleaned and structured to support Power BI reporting and DAX calculations.
-
----
-
-##  Key Insights
-
-- Projected revenue grows from **₦91M** in Year 1 to **₦417M** by Year 5.
-- Subscription products contribute the largest share of projected revenue.
-- The business reaches break-even in **Year 3**.
-- Net profit grows steadily throughout the forecast period.
-- Total assets exceed **₦1 Billion**, reflecting a strengthening financial position.
-- The projected financial outlook supports a **₦150 Million** funding request.
-
----
-
-##  Recommendations
-
-Allocate the ₦150M funding toward initiatives with the highest expected return while maintaining healthy profit margins and positive cash flows. Review key financial metrics quarterly to ensure the business remains on track to achieve its five-year projections.
-
----
-
-## 📷 Dashboard Preview
-
-> *(Insert dashboard screenshot here)*
-
----
-
-##  Skills Demonstrated
-
-- Financial Forecasting
-- Financial Statement Analysis
-- Business Intelligence Reporting
-- Dashboard Design
-- KPI Development
-- DAX Measures
-- Data Modeling
-- Executive Reporting
-- Storytelling with Data
-- Investor Reporting
-
----
-
-## 📌 Conclusion
-
-This project demonstrates how complex financial models can be transformed into a concise executive dashboard that supports strategic decision-making and investor presentations. By combining financial modelling principles with Business Intelligence techniques, the dashboard enables stakeholders to quickly evaluate projected growth, profitability, financial strength, and funding requirements over a five-year period.
+> **Note:** This project uses a simulated financial forecast model created for educational and portfolio purposes.
