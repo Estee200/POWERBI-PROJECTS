@@ -14,15 +14,18 @@ The projects cover Financial Planning & Analysis (FP&A), Financial Reporting, Le
 
 ---
 
-#  Projects
+##  Projects
 
-## 1️⃣ Budget vs Actual Financial Performance Dashboard
+### 1️⃣ Budget vs Actual Financial Performance Dashboard
 
 An FP&A dashboard designed to compare Budget versus Actual Revenue, Expenses, and Profit, helping management monitor financial performance, identify variances, and make informed business decisions.
 
 ### Dashboard Preview
 
-*(Insert image here)*
+<p align="center">
+  <img src="https://github.com/Estee200/POWERBI-PROJECTS/blob/main/Budget%20Vs%20Actual%20Business%20Insight/Images/Executive%20Insight.png?raw=true" alt="Budeget Vs Actual Dashboard" width="600">
+</p>
+
 
 <p align="center">
   <a href="https://github.com/Estee200/POWERBI-PROJECTS/tree/main/Budget%20Vs%20Actual%20Business%20Insight">Read Full Case Study →</a>
@@ -37,7 +40,9 @@ An executive financial dashboard built from a five-year financial forecast model
 
 ### Dashboard Preview
 
-*(Insert image here)*
+<p align="center">
+  <img src="https://github.com/Estee200/POWERBI-PROJECTS/blob/main/5-Year%20Financial%20Forecast%20Model/5-year%20Forecast%20Dashboard.png?raw=true" alt="5-yr Financial Insight Dashboard" width="600">
+</p>
 
 <p align="center">
   <a href="https://github.com/Estee200/POWERBI-PROJECTS/tree/main/5-Year%20Financial%20Forecast%20Model">Read Full Case Study →</a>
@@ -52,7 +57,9 @@ A financial reporting dashboard developed for a law firm to monitor revenue, bil
 
 ### Dashboard Preview
 
-*(Insert image here)*
+<p align="center">
+  <img src="https://github.com/Estee200/POWERBI-PROJECTS/blob/main/Legal%20Financial%20Insight%20Findings/Images/Legal%20Executive%20Insight%20Dasboard.png?raw=true" alt="Legal Financial Insight Dashboard" width="600">
+</p>
 
 <p align="center">
   <a href="https://github.com/Estee200/POWERBI-PROJECTS/tree/main/Legal%20Financial%20Insight%20Findings">Read Full Case Study →</a>
@@ -67,7 +74,10 @@ A Power BI dashboard designed to identify revenue leakage across the sales proce
 
 ### Dashboard Preview
 
-*(Insert image here)*
+<p align="center">
+  <img src="https://github.com/Estee200/POWERBI-PROJECTS/blob/main/Revenue%20Assurance%20%20&%20Reconciliation%20Analysis/Images/Executive%20Overview.png?raw=true" alt="Revenue Leakage Insight Dashboard" width="600">
+</p>
+
 
 <p align="center">
   <a href="https://github.com/Estee200/POWERBI-PROJECTS/tree/main/Revenue%20Assurance%20%20%26%20Reconciliation%20Analysis">Read Full Case Study →</a>
@@ -82,7 +92,9 @@ An interactive survey dashboard analyzing responses from data professionals to e
 
 ### Dashboard Preview
 
-*(Insert image here)*
+<p align="center">
+  <img src="https://github.com/Estee200/POWERBI-PROJECTS/blob/main/Data%20Survey%20Analysis/Data%20Survey%20Dashboard.jpg?raw=true" alt="Data Survey Dashboard" width="600">
+</p>
 
 <p align="center">
   <a href="https://github.com/Estee200/POWERBI-PROJECTS/tree/main/Data%20Survey%20Analysis">Read Full Case Study →</a>
